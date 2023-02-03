@@ -1,0 +1,11 @@
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\bin\Debug\Meu  projeto.exe
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\bin\Debug\Meu  projeto.pdb
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu  projeto.csproj.AssemblyReference.cache
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu__projeto.Form1.resources
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu__projeto.Properties.Resources.resources
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu  projeto.csproj.GenerateResource.cache
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu  projeto.csproj.CoreCompileInputs.cache
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu  projeto.exe
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu  projeto.pdb
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu__projeto.AboutBox1.resources
+C:\Users\EZ-97\Desktop\Projeto\Meu  projeto\Meu  projeto\obj\Debug\Meu__projeto.UserControl1.resources
